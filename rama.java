@@ -10,3 +10,7 @@ class Rama{
 	}
 }
 
+	public String hello(){
+		System.out.println("hi hello");
+	}
+}
