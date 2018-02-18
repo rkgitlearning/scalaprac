@@ -12,5 +12,9 @@ class Rama{
 		return "I am returning data";
 	}
 
+
+	public void adding(){
+		System.out.println("Hello adding");
+	}
 }
 
