@@ -8,5 +8,9 @@ class Rama{
 	public String myName(){
 		return "SriNoothan Raamakrishna";
 	}
+	public String data(){
+		return "I am returning data";
+	}
+
 }
 
